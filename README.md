@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/784202615550115871/899714244520595486/Ekhidna.png">
+  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/784202615550115871/899714840157888573/IMG_20190912_182944.jpg">
 </div>
 
   ##
