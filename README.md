@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on Front-End Development;
-- 📚 I’m currently learning PHP/React;
+- 💻 I’m a Front-End Developer;
+- 📚 I’m also learning PHP;
 - 👨‍💻 Pronouns: He/Him;
 - 🤓 Fun fact: Self Taught Developer;
 
