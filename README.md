@@ -14,7 +14,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server">
+  <img align="center" height="30" width="40" src="https://imgs.search.brave.com/a6UwJHQEwUY7-S2lc0mvwBhW5vrz90S2NukwgDQEwPk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aWNvbnNob2NrLmNv/bS9pbWFnZS9Ccmls/bGlhbnQvRGF0YWJh/c2UvbWljcm9zb2Z0/X3NxbF9zZXJ2ZXI">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   
