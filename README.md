@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m a Front-End Developer;
-- 📚 I’m also learning PHP;
+- 💻 Started as Front-End Developer
+- 💻 Currently I'm a Fullstack Web Developer;
 - 🤓 Fun fact: Self Taught Developer;
 
 <div align="center">
@@ -14,6 +14,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/784202615550115871/899714840157888573/IMG_20190912_182944.jpg">
 </div>
 
