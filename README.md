@@ -18,7 +18,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"title="VUE.JS">
   
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/784202615550115871/899714840157888573/IMG_20190912_182944.jpg">
 </div>
 
   ##
