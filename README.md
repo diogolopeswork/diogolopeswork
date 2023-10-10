@@ -2,7 +2,6 @@
 
 - 💻 I’m a Front-End Developer;
 - 📚 I’m also learning PHP;
-- 👨‍💻 Pronouns: He/Him;
 - 🤓 Fun fact: Self Taught Developer;
 
 <div align="center">
