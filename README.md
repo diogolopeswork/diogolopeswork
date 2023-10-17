@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 Started as Front-End Developer
-- 💻 Currently I'm a Fullstack Web Developer;
+- 💻 Currently I'm a Web Developer;
 - 🤓 Fun fact: Self Taught Developer;
 
 <div align="center">
