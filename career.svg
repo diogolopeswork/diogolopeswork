@@ -1,36 +1,35 @@
-<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="380" fill="#0d0818"/>
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" fill="#0d0818"/>
 
-  <rect x="0" y="0" width="1200" height="44" fill="#08050f"/>
-  <rect x="0" y="43" width="1200" height="1" fill="#a855f7" opacity="0.4"/>
-  <circle cx="24" cy="22" r="5" fill="#c026d3"/>
-  <circle cx="40" cy="22" r="5" fill="#a855f7" opacity="0.5"/>
-  <circle cx="56" cy="22" r="5" fill="#7c3aed" opacity="0.3"/>
-  <text x="76" y="28" font-family="Courier New, monospace" font-size="13" fill="#a855f7" opacity="0.7" letter-spacing="3">// CAREER_LOG</text>
+  <rect x="0" y="0" width="1200" height="48" fill="#08050f"/>
+  <rect x="0" y="47" width="1200" height="1" fill="#a855f7" opacity="0.4"/>
+  <circle cx="28" cy="24" r="6" fill="#c026d3"/>
+  <circle cx="46" cy="24" r="6" fill="#a855f7" opacity="0.5"/>
+  <circle cx="64" cy="24" r="6" fill="#7c3aed" opacity="0.3"/>
+  <text x="86" y="31" font-family="Courier New, monospace" font-size="15" fill="#a855f7" opacity="0.7" letter-spacing="3">// CAREER_LOG</text>
 
-  <!-- vertical spine line -->
-  <line x1="72" y1="70" x2="72" y2="340" stroke="#a855f7" stroke-width="1" opacity="0.2" stroke-dasharray="4,4"/>
+  <line x1="80" y1="75" x2="80" y2="385" stroke="#a855f7" stroke-width="1.5" opacity="0.2" stroke-dasharray="5,5"/>
 
   <!-- 2021 -->
-  <circle cx="72" cy="90" r="7" fill="#0d0818" stroke="#a855f7" stroke-width="1.5" opacity="0.6"/>
-  <text x="100" y="88" font-family="Courier New, monospace" font-size="12" fill="#7a4a9a" letter-spacing="2">[2021]</text>
-  <text x="100" y="110" font-family="Courier New, monospace" font-weight="700" font-size="16" fill="#e0c8ff">INIT: Started learning to code</text>
-  <text x="100" y="132" font-family="Courier New, monospace" font-size="13" fill="#7a6a90">Self-taught. No bootcamp, no degree — just curiosity and persistence.</text>
+  <circle cx="80" cy="98" r="8" fill="#0d0818" stroke="#a855f7" stroke-width="2" opacity="0.7"/>
+  <text x="110" y="94" font-family="Courier New, monospace" font-size="13" fill="#8a5aaa" letter-spacing="2">[2021]</text>
+  <text x="110" y="118" font-family="Courier New, monospace" font-weight="700" font-size="18" fill="#e8d0ff">INIT: Started learning to code</text>
+  <text x="110" y="142" font-family="Courier New, monospace" font-size="15" fill="#8a7aaa">Self-taught. No bootcamp, no degree — just curiosity and persistence.</text>
 
   <!-- Feb 2022 -->
-  <circle cx="72" cy="172" r="7" fill="#0d0818" stroke="#a855f7" stroke-width="1.5" opacity="0.6"/>
-  <text x="100" y="170" font-family="Courier New, monospace" font-size="12" fill="#7a4a9a" letter-spacing="2">[Feb 2022]</text>
-  <text x="100" y="192" font-family="Courier New, monospace" font-weight="700" font-size="16" fill="#e0c8ff">DEPLOY: First professional contract</text>
-  <text x="100" y="214" font-family="Courier New, monospace" font-size="13" fill="#7a6a90">Built a Real Estate CRM from scratch for the Portuguese property market.</text>
-  <text x="100" y="234" font-family="Courier New, monospace" font-size="13" fill="#7a6a90">3 years developing a full product end-to-end: frontend, backend, database.</text>
+  <circle cx="80" cy="190" r="8" fill="#0d0818" stroke="#a855f7" stroke-width="2" opacity="0.7"/>
+  <text x="110" y="186" font-family="Courier New, monospace" font-size="13" fill="#8a5aaa" letter-spacing="2">[Feb 2022]</text>
+  <text x="110" y="210" font-family="Courier New, monospace" font-weight="700" font-size="18" fill="#e8d0ff">DEPLOY: First professional contract</text>
+  <text x="110" y="234" font-family="Courier New, monospace" font-size="15" fill="#8a7aaa">Built a Real Estate CRM from scratch for the Portuguese property market.</text>
+  <text x="110" y="256" font-family="Courier New, monospace" font-size="15" fill="#8a7aaa">3 years developing a full product end-to-end: frontend, backend, database.</text>
 
   <!-- Now -->
-  <circle cx="72" cy="274" r="8" fill="#c026d3" stroke="#c026d3" stroke-width="2"/>
-  <text x="100" y="272" font-family="Courier New, monospace" font-size="12" fill="#c026d3" letter-spacing="2">[Now] ── ACTIVE</text>
-  <text x="100" y="294" font-family="Courier New, monospace" font-weight="700" font-size="16" fill="#ffffff">Fullstack Developer — CIB market</text>
-  <text x="100" y="316" font-family="Courier New, monospace" font-size="13" fill="#7a6a90">Developing &amp; maintaining financial-grade systems in Corporate &amp; Investment Banking.</text>
-  <text x="100" y="336" font-family="Courier New, monospace" font-size="13" fill="#7a6a90">Working on legacy infrastructure where context is scarce and problem-solving is daily.</text>
+  <circle cx="80" cy="300" r="10" fill="#c026d3" stroke="#e040fb" stroke-width="2"/>
+  <text x="110" y="296" font-family="Courier New, monospace" font-size="13" fill="#c026d3" letter-spacing="2">[Now] ── ACTIVE</text>
+  <text x="110" y="320" font-family="Courier New, monospace" font-weight="700" font-size="18" fill="#ffffff">Fullstack Developer — CIB market</text>
+  <text x="110" y="344" font-family="Courier New, monospace" font-size="15" fill="#8a7aaa">Developing &amp; maintaining financial-grade systems in Corporate &amp; Investment Banking.</text>
+  <text x="110" y="366" font-family="Courier New, monospace" font-size="15" fill="#8a7aaa">Working on legacy infrastructure where context is scarce and problem-solving is daily.</text>
 
-  <rect x="0" y="364" width="1200" height="16" fill="#08050f"/>
-  <rect x="0" y="364" width="1200" height="1" fill="#a855f7" opacity="0.2"/>
+  <rect x="0" y="402" width="1200" height="18" fill="#08050f"/>
+  <rect x="0" y="402" width="1200" height="1" fill="#a855f7" opacity="0.2"/>
 </svg>
