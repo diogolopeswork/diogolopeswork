@@ -30,80 +30,37 @@
 
 ---
 
-## `// career_log`
-
-```
-[2021]      ── INIT: Started learning to code
-               Self-taught. No bootcamp, no degree.
-               Just curiosity and persistence.
-
-[Feb 2022]  ── DEPLOY: First professional contract
-               Built a Real Estate CRM from scratch
-               for the Portuguese property market.
-               3 years developing a full product end-to-end:
-               frontend, backend, database — all of it.
-
-[Now]       ── ACTIVE: Fullstack Developer — CIB market
-               Developing & maintaining financial-grade systems
-               in Corporate & Investment Banking.
-               Working on legacy infrastructure where context
-               is scarce and problem-solving is daily.
-
-[???]       ── PENDING: Still a lot to learn.
-               Always will be. That's the point.
-```
+<img src="https://raw.githubusercontent.com/diogolopeswork/diogolopeswork/main/career.svg" width="100%" alt="Career Log"/>
 
 ---
 
-## `// tech_stack`
+<img src="https://raw.githubusercontent.com/diogolopeswork/diogolopeswork/main/stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"/>
-
-![Vue.js](https://img.shields.io/badge/Vue.js-0d0818?style=flat-square&logo=vue.js&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0818?style=flat-square&logo=javascript&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-0d0818?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-0d0818?style=flat-square&logo=css3&logoColor=a855f7)
-
 <br/>
 
-**Backend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
-
-![C#](https://img.shields.io/badge/C%23-0d0818?style=flat-square&logo=csharp&logoColor=a855f7)
-![.NET](https://img.shields.io/badge/.NET-0d0818?style=flat-square&logo=dotnet&logoColor=a855f7)
-![.NET Core](https://img.shields.io/badge/.NET_Core-0d0818?style=flat-square&logo=dotnet&logoColor=a855f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0818?style=flat-square&logo=postgresql&logoColor=a855f7)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0d0818?style=flat-square&logo=microsoftsqlserver&logoColor=a855f7)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44"/>
 
 </div>
 
 ---
 
-## `// about`
-
-I started coding in 2021 with no formal background — just a lot of trial, error, and stubbornness.
-
-Since February 2022 I've been working professionally: first building a **Real Estate CRM from the ground up** for the Portuguese market, and now developing systems in the **financial sector** (CIB).
-
-I still feel like I have a lot to learn — and that's exactly what keeps me going.
+<img src="https://raw.githubusercontent.com/diogolopeswork/diogolopeswork/main/about.svg" width="100%" alt="About"/>
 
 ---
 
 <div align="center">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/diogolopeswork/diogolopeswork/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 `[ diogolopeswork // PT // FULLSTACK // SINCE 2022-02-01 ]`
 
