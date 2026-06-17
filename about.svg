@@ -1,22 +1,25 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="200" fill="#0d0818"/>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" fill="#0d0818"/>
 
-  <rect x="0" y="0" width="900" height="36" fill="#08050f"/>
-  <rect x="0" y="35" width="900" height="1" fill="#a855f7" opacity="0.25"/>
-  <text x="28" y="23" font-family="Courier New, monospace" font-size="11" fill="#a855f7" opacity="0.6" letter-spacing="2">// ABOUT</text>
+  <rect x="0" y="0" width="1200" height="44" fill="#08050f"/>
+  <rect x="0" y="43" width="1200" height="1" fill="#a855f7" opacity="0.4"/>
+  <circle cx="24" cy="22" r="5" fill="#c026d3"/>
+  <circle cx="40" cy="22" r="5" fill="#a855f7" opacity="0.5"/>
+  <circle cx="56" cy="22" r="5" fill="#7c3aed" opacity="0.3"/>
+  <text x="76" y="28" font-family="Courier New, monospace" font-size="13" fill="#a855f7" opacity="0.7" letter-spacing="3">// ABOUT</text>
 
-  <text x="48" y="68" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">I started coding in 2021 with no formal background —</text>
-  <text x="48" y="86" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">just a lot of trial, error, and stubbornness.</text>
+  <text x="60" y="80" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">I started coding in 2021 with no formal background —</text>
+  <text x="60" y="100" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">just a lot of trial, error, and stubbornness.</text>
 
-  <text x="48" y="114" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">Since Feb 2022 I've been working professionally: first building a</text>
-  <text x="48" y="132" font-family="Courier New, monospace" font-weight="700" font-size="12" fill="#d0b0f0">Real Estate CRM from the ground up</text>
-  <text x="340" y="132" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">, and now developing</text>
-  <text x="48" y="150" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">financial-grade systems in the</text>
-  <text x="280" y="150" font-family="Courier New, monospace" font-weight="700" font-size="12" fill="#d0b0f0">CIB sector</text>
-  <text x="360" y="150" font-family="Courier New, monospace" font-size="12" fill="#8a7aa0">.</text>
+  <text x="60" y="132" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">Since Feb 2022 I've been working professionally: first building a</text>
+  <text x="60" y="154" font-family="Courier New, monospace" font-weight="700" font-size="14" fill="#e0c8ff">Real Estate CRM from the ground up</text>
+  <text x="388" y="154" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">, and now developing financial-grade</text>
+  <text x="60" y="174" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">systems in the</text>
+  <text x="198" y="174" font-family="Courier New, monospace" font-weight="700" font-size="14" fill="#e0c8ff">CIB sector</text>
+  <text x="306" y="174" font-family="Courier New, monospace" font-size="14" fill="#9a8ab0">.</text>
 
-  <text x="48" y="178" font-family="Courier New, monospace" font-size="12" fill="#c026d3">I still feel like I have a lot to learn — and that's exactly what keeps me going.</text>
+  <text x="60" y="202" font-family="Courier New, monospace" font-size="14" fill="#c026d3">I still feel like I have a lot to learn — and that's exactly what keeps me going.</text>
 
-  <rect x="0" y="190" width="900" height="10" fill="#08050f"/>
-  <rect x="0" y="190" width="900" height="1" fill="#a855f7" opacity="0.15"/>
+  <rect x="0" y="210" width="1200" height="10" fill="#08050f"/>
+  <rect x="0" y="210" width="1200" height="1" fill="#a855f7" opacity="0.2"/>
 </svg>

@@ -1,51 +1,56 @@
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="280" fill="#0d0818"/>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0d0818"/>
 
-  <rect x="0" y="0" width="900" height="36" fill="#08050f"/>
-  <rect x="0" y="35" width="900" height="1" fill="#a855f7" opacity="0.25"/>
-  <text x="28" y="23" font-family="Courier New, monospace" font-size="11" fill="#a855f7" opacity="0.6" letter-spacing="2">// TECH_STACK</text>
+  <rect x="0" y="0" width="1200" height="44" fill="#08050f"/>
+  <rect x="0" y="43" width="1200" height="1" fill="#a855f7" opacity="0.4"/>
+  <circle cx="24" cy="22" r="5" fill="#c026d3"/>
+  <circle cx="40" cy="22" r="5" fill="#a855f7" opacity="0.5"/>
+  <circle cx="56" cy="22" r="5" fill="#7c3aed" opacity="0.3"/>
+  <text x="76" y="28" font-family="Courier New, monospace" font-size="13" fill="#a855f7" opacity="0.7" letter-spacing="3">// TECH_STACK</text>
 
   <!-- Frontend label -->
-  <text x="48" y="68" font-family="Courier New, monospace" font-size="10" fill="#c026d3" letter-spacing="3">FRONTEND</text>
-  <line x1="130" y1="63" x2="860" y2="63" stroke="#a855f7" stroke-width="0.5" opacity="0.2"/>
+  <text x="60" y="82" font-family="Courier New, monospace" font-size="11" fill="#c026d3" letter-spacing="4">FRONTEND</text>
+  <line x1="160" y1="77" x2="1140" y2="77" stroke="#a855f7" stroke-width="0.5" opacity="0.25"/>
 
-  <!-- Frontend badges -->
-  <rect x="48" y="78" width="90" height="28" rx="3" fill="#160a28" stroke="#a855f7" stroke-width="0.8" opacity="1"/>
-  <text x="93" y="96" font-family="Courier New, monospace" font-size="11" fill="#a855f7" text-anchor="middle">Vue.js</text>
+  <!-- Frontend pills -->
+  <rect x="60"  y="92" width="110" height="36" rx="4" fill="#160a28" stroke="#a855f7" stroke-width="1"/>
+  <text x="115" y="115" font-family="Courier New, monospace" font-size="14" fill="#c8a0f0" text-anchor="middle">Vue.js</text>
 
-  <rect x="148" y="78" width="110" height="28" rx="3" fill="#160a28" stroke="#a855f7" stroke-width="0.8"/>
-  <text x="203" y="96" font-family="Courier New, monospace" font-size="11" fill="#a855f7" text-anchor="middle">JavaScript</text>
+  <rect x="182" y="92" width="140" height="36" rx="4" fill="#160a28" stroke="#a855f7" stroke-width="1"/>
+  <text x="252" y="115" font-family="Courier New, monospace" font-size="14" fill="#c8a0f0" text-anchor="middle">JavaScript</text>
 
-  <rect x="268" y="78" width="80" height="28" rx="3" fill="#160a28" stroke="#a855f7" stroke-width="0.8"/>
-  <text x="308" y="96" font-family="Courier New, monospace" font-size="11" fill="#a855f7" text-anchor="middle">HTML5</text>
+  <rect x="334" y="92" width="145" height="36" rx="4" fill="#160a28" stroke="#a855f7" stroke-width="1"/>
+  <text x="406" y="115" font-family="Courier New, monospace" font-size="14" fill="#c8a0f0" text-anchor="middle">TypeScript</text>
 
-  <rect x="358" y="78" width="70" height="28" rx="3" fill="#160a28" stroke="#a855f7" stroke-width="0.8"/>
-  <text x="393" y="96" font-family="Courier New, monospace" font-size="11" fill="#a855f7" text-anchor="middle">CSS3</text>
+  <rect x="491" y="92" width="100" height="36" rx="4" fill="#160a28" stroke="#a855f7" stroke-width="1"/>
+  <text x="541" y="115" font-family="Courier New, monospace" font-size="14" fill="#c8a0f0" text-anchor="middle">HTML5</text>
+
+  <rect x="603" y="92" width="90" height="36" rx="4" fill="#160a28" stroke="#a855f7" stroke-width="1"/>
+  <text x="648" y="115" font-family="Courier New, monospace" font-size="14" fill="#c8a0f0" text-anchor="middle">CSS3</text>
 
   <!-- Backend label -->
-  <text x="48" y="148" font-family="Courier New, monospace" font-size="10" fill="#c026d3" letter-spacing="3">BACKEND</text>
-  <line x1="125" y1="143" x2="860" y2="143" stroke="#a855f7" stroke-width="0.5" opacity="0.2"/>
+  <text x="60" y="172" font-family="Courier New, monospace" font-size="11" fill="#c026d3" letter-spacing="4">BACKEND</text>
+  <line x1="155" y1="167" x2="1140" y2="167" stroke="#a855f7" stroke-width="0.5" opacity="0.25"/>
 
-  <!-- Backend badges -->
-  <rect x="48" y="158" width="60" height="28" rx="3" fill="#160a28" stroke="#c026d3" stroke-width="0.8"/>
-  <text x="78" y="176" font-family="Courier New, monospace" font-size="11" fill="#c026d3" text-anchor="middle">C#</text>
+  <!-- Backend pills -->
+  <rect x="60"  y="182" width="80"  height="36" rx="4" fill="#1a0820" stroke="#c026d3" stroke-width="1"/>
+  <text x="100" y="205" font-family="Courier New, monospace" font-size="14" fill="#f0a0e0" text-anchor="middle">C#</text>
 
-  <rect x="118" y="158" width="70" height="28" rx="3" fill="#160a28" stroke="#c026d3" stroke-width="0.8"/>
-  <text x="153" y="176" font-family="Courier New, monospace" font-size="11" fill="#c026d3" text-anchor="middle">.NET</text>
+  <rect x="152" y="182" width="90"  height="36" rx="4" fill="#1a0820" stroke="#c026d3" stroke-width="1"/>
+  <text x="197" y="205" font-family="Courier New, monospace" font-size="14" fill="#f0a0e0" text-anchor="middle">.NET</text>
 
-  <rect x="198" y="158" width="100" height="28" rx="3" fill="#160a28" stroke="#c026d3" stroke-width="0.8"/>
-  <text x="248" y="176" font-family="Courier New, monospace" font-size="11" fill="#c026d3" text-anchor="middle">.NET Core</text>
+  <rect x="254" y="182" width="130" height="36" rx="4" fill="#1a0820" stroke="#c026d3" stroke-width="1"/>
+  <text x="319" y="205" font-family="Courier New, monospace" font-size="14" fill="#f0a0e0" text-anchor="middle">.NET Core</text>
 
-  <rect x="308" y="158" width="105" height="28" rx="3" fill="#160a28" stroke="#c026d3" stroke-width="0.8"/>
-  <text x="360" y="176" font-family="Courier New, monospace" font-size="11" fill="#c026d3" text-anchor="middle">PostgreSQL</text>
+  <rect x="396" y="182" width="140" height="36" rx="4" fill="#1a0820" stroke="#c026d3" stroke-width="1"/>
+  <text x="466" y="205" font-family="Courier New, monospace" font-size="14" fill="#f0a0e0" text-anchor="middle">PostgreSQL</text>
 
-  <rect x="423" y="158" width="105" height="28" rx="3" fill="#160a28" stroke="#c026d3" stroke-width="0.8"/>
-  <text x="475" y="176" font-family="Courier New, monospace" font-size="11" fill="#c026d3" text-anchor="middle">SQL Server</text>
+  <rect x="548" y="182" width="140" height="36" rx="4" fill="#1a0820" stroke="#c026d3" stroke-width="1"/>
+  <text x="618" y="205" font-family="Courier New, monospace" font-size="14" fill="#f0a0e0" text-anchor="middle">SQL Server</text>
 
-  <!-- divider -->
-  <line x1="48" y1="220" x2="860" y2="220" stroke="#a855f7" stroke-width="0.5" opacity="0.1"/>
-  <text x="450" y="245" font-family="Courier New, monospace" font-size="10" fill="#4a3a60" text-anchor="middle" letter-spacing="1">Fullstack · Web Apps · Desktop Software · Legacy Systems</text>
+  <line x1="60" y1="254" x2="1140" y2="254" stroke="#a855f7" stroke-width="0.5" opacity="0.1"/>
+  <text x="600" y="278" font-family="Courier New, monospace" font-size="12" fill="#4a3a60" text-anchor="middle" letter-spacing="2">Fullstack · Web Apps · Desktop Software · Legacy Systems · Financial Grade</text>
 
-  <rect x="0" y="268" width="900" height="12" fill="#08050f"/>
-  <rect x="0" y="268" width="900" height="1" fill="#a855f7" opacity="0.15"/>
+  <rect x="0" y="288" width="1200" height="12" fill="#08050f"/>
+  <rect x="0" y="288" width="1200" height="1" fill="#a855f7" opacity="0.2"/>
 </svg>
